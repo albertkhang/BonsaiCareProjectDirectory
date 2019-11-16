@@ -1,2 +1,7 @@
-# BonsaiCareProjectDirectory
-This is a project about taking care of bonsai I make when I learn in Introduction Software Technology at my university.
+# Bonsai Care Project Directory
+--
+## ARCHIVE
+## AUDIT
+## REFERENCES
+## WORK IN PROGRESS
+## *README.md*
