@@ -6,4 +6,12 @@
 * Customer Supplied
 * Process Template
 ## WORK IN PROGRESS
-## *README.md*
+* Deliverables
+* Documents
+* Letter
+* Minutes
+* Plan
+* Report
+* Source
+* Users
+***README.md***
