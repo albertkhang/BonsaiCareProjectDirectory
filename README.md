@@ -1,4 +1,4 @@
-# Bonsai Care Project Directory
+# ![Image](https://i.imgur.com/YLxmThd.png) Bonsai Care Project Directory 
 
 *README.md*
 ## Archive
