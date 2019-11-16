@@ -1,14 +1,15 @@
 # Bonsai Care Project Directory
 
-## ARCHIVE
+*README.md*
+## Archive
 `Store CIs at project baseline point`
-## AUDIT
+## Audit
 `Store review records by QA`
-## REFERENCES
+## Reference
 `Store all CIs that used to refer`
 * Customer Supplied
 * Process Template
-## WORK IN PROGRESS
+## Work In Progress
 * Deliverables `Store all CIs delivered to customer`
 * Documents
 * Letter
@@ -17,9 +18,7 @@
 * Report
 * Source
 * Users
-* 
-***README.md***
 
-# Acronyms
+## Acronyms
 * CI: Configuration Item
 * QA: Quality Assurance
