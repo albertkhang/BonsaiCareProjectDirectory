@@ -11,12 +11,12 @@
 * Process Template `Store all template using in the project`
 ## Work In Progress
 * Deliverables `Store all CIs delivered to customer`
-* Documents
+* Documents `Store all documents of the projects`
 * Letter `Store all letter was exchanged with the customer`
 * Minutes `Meeting minutes with members`
-* Plan
-* Report
-* Source
+* Plan `Store the project plan`
+* Report `Store report`
+* Source `Store source code`
 * Users `Source edit permission`
 
 ## Acronyms
