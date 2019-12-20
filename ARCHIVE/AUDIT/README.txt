@@ -1,0 +1,1 @@
+Store review records by QA

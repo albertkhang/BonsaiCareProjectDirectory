@@ -1,0 +1,1 @@
+Store all template using in the project

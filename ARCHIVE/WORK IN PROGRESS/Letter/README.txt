@@ -1,0 +1,1 @@
+Store all letter was exchanged with the customer
