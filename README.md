@@ -16,7 +16,7 @@
 * Minutes `Meeting minutes with members`
 * Plan `Store the project plan`
 * Report `Store report`
-* Source `Store source code`
+* [Source](https://github.com/albertkhang/BonsaiCare) `Store source code`
 * Users `Source edit permission`
 
 ## Acronyms
